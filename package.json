@@ -1,0 +1,8 @@
+{
+  "name": "pacman",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rdhox/pacman-js.git",
+  "author": "rdhox <admin@rdhox.io>",
+  "license": "MIT"
+}
